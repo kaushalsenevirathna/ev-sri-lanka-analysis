@@ -37,18 +37,20 @@ one row per individual vehicle).
 
 ## Repository Structure
 
+```
 ev-sri-lanka-analysis/
 ├── data/
-│ ├── raw/ # original untouched data
-│ └── processed/ # cleaned dataset
+│   ├── raw/            # original untouched data
+│   └── processed/      # cleaned dataset
 ├── notebooks/
-│ ├── 01_data_cleaning.ipynb
-│ └── 02_eda.ipynb
+│   ├── 01_data_cleaning.ipynb
+│   └── 02_eda.ipynb
 ├── src/
-│ └── cleaning.py # reusable data cleaning functions
-├── visuals/ # exported chart images
+│   └── cleaning.py     # reusable data cleaning functions
+├── visuals/             # exported chart images
 ├── requirements.txt
 └── README.md
+```
 
 ## Methodology
 
