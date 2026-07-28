@@ -174,6 +174,6 @@ Then open the notebooks in `notebooks/` in VS Code or Jupyter, in order (`01` �
 ## 👤 Author
 
 **Kaushal Senevirathna**
-[LinkedIn](#) · [GitHub](https://github.com/kaushalsenevirathna)
+[LinkedIn](https://www.linkedin.com/in/kaushalsenevirathna/) · [GitHub](https://github.com/kaushalsenevirathna)
 
 <p align="center">⭐ If you found this project interesting, consider giving it a star!</p>
